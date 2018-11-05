@@ -9,3 +9,7 @@ datagroup: default_datagroup {
 }
 
 persist_with: default_datagroup
+
+explore: test {
+  from: connections
+}
